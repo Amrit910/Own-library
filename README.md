@@ -1,2 +1,2 @@
-# Own-library
-Collision detection and bounce off.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
